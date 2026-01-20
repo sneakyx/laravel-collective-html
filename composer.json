@@ -1,5 +1,5 @@
 {
-    "name": "mfonte/laravel-collective-html",
+    "name": "sneakyx/laravel-collective-html",
     "description": "Laravel 11 compatible fork of LaravelCollective/html. Namespaces kept as original for compatibility. HTML and Form Builders for the Laravel Framework",
     "type": "library",
     "version": "1.0.0",
@@ -16,6 +16,10 @@
         {
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
+        },
+        {
+            "name": "Maurizio Fonte",
+            "email": "maurizio@mauriziofonte.it"
         },
         {
             "name": "André Scholz",
