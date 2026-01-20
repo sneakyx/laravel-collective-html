@@ -2,7 +2,7 @@
     "name": "sneakyx/laravel-collective-html",
     "description": "Laravel 11 compatible fork of LaravelCollective/html. Namespaces kept as original for compatibility. HTML and Form Builders for the Laravel Framework",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/sneakyx/laravel-collective-html/issues",
