@@ -1,8 +1,8 @@
 {
     "name": "sneakyx/laravel-collective-html",
-    "description": "Laravel 11 compatible fork of LaravelCollective/html. Namespaces kept as original for compatibility. HTML and Form Builders for the Laravel Framework",
+    "description": "Laravel 12 compatible fork of LaravelCollective/html. Namespaces kept as original for compatibility. HTML and Form Builders for the Laravel Framework",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/sneakyx/laravel-collective-html/issues",
@@ -27,17 +27,17 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
-        "illuminate/http": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/routing": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/session": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/view": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
+        "php": "^8.2",
+        "illuminate/http": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/routing": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/session": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/view": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
-        "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "mockery/mockery": "~1.0",
-        "phpunit/phpunit": "~8.5|^9.5.10"
+        "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "mockery/mockery": "^1.6",
+        "phpunit/phpunit": "^10.5|^11.0"
     },
     "autoload": {
         "psr-4": {
